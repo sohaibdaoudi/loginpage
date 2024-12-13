@@ -11,6 +11,7 @@ include("connect.php");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Homepage</title>
+    <link rel="stylesheet" href="homepage.css">
 </head>
 <body>
     <div style="text-align:center; padding:15%;">
@@ -24,7 +25,7 @@ include("connect.php");
         }
        }
        ?>
-       :)
+       ! What's your tasks today?
       </p>
       <a href="logout.php">Logout</a>
     </div>
