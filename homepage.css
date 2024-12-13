@@ -1,0 +1,19 @@
+body{
+    background-image: url(193864.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    color: aliceblue;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: aqua;
+}
