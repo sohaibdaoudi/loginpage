@@ -1,2 +1,2 @@
-The is live here:
+The page is live here:
 https://sohaibdaoudi.github.io/loginpage/
