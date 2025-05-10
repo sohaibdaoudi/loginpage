@@ -31,10 +31,3 @@ To run this project locally, you'll need [XAMPP](https://www.apachefriends.org/i
 ## Usage
 - You can customize the login form or connect it to a backend service for processing login requests.
 - The project is intended for educational purposes and demonstrates basic HTML and CSS practices.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- This project was built as part of a personal learning initiative.
-- Special thanks to all the open-source libraries used in this project.
