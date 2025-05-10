@@ -6,11 +6,6 @@ Welcome to the Login Page Project! This project is a simple implementation of a 
 You can view the live demo of the page here:  
 [Click here to visit the live page](https://sohaibdaoudi.github.io/loginpage/)
 
-## Features
-- Basic login form with fields for username and password.
-- Responsive design that adjusts to different screen sizes.
-- Easy integration with backend services (for demonstration purposes, it's static).
-
 ## Installation Instructions
 
 ### Prerequisites
